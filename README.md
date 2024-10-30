@@ -10,8 +10,8 @@ Este proyecto tiene como objetivo desarrollar una interfaz web intuitiva y efici
 - **Rendimiento óptimo:** Búsquedas rápidas y eficientes
 
 ## Tecnologías Utilizadas
-- **Frontend:** 
-- **Backend:** 
+- **Frontend:** HTML, CSS
+- **Backend:** MySQL
 - **Base de datos:**
 
 ## Autores
