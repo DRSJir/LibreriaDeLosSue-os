@@ -1,0 +1,33 @@
+.busqueda-envoltorio {
+    display: flex;
+    flex-direction: column;
+    gap: .25rem;
+}
+
+input {
+    font-size: 1rem;
+}
+
+.libro-tarjeta {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: .25rem;
+    margin-top: 1rem;
+}
+
+.tarjeta {
+    background-color: whitesmoke;
+    padding: .5rem;
+}
+
+.tarjeta > .cabecera {
+    margin-bottom: .25rem;
+}
+
+.tarjeta > .cuerpo {
+    font-size: .7rem;
+}
+
+.hide {
+    display: none;
+}

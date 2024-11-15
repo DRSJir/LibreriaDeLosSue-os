@@ -17,3 +17,4 @@ Este proyecto tiene como objetivo desarrollar una interfaz web intuitiva y efici
 ## Autores
 Del Real Segura Jair
 Jaramillo Herrera Carolina
+Ramírez Enríquez Marcos Eduardo
